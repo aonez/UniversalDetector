@@ -803,7 +803,7 @@
 				GCC_PREFIX_HEADER = "";
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					Foundation,
@@ -827,7 +827,7 @@
 				GCC_PREFIX_HEADER = "";
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = UniversalDetector.ios;
 				SDKROOT = iphoneos;

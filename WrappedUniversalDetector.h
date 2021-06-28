@@ -25,7 +25,7 @@
 extern "C" {
 #endif
 
-void *AllocUniversalDetector();
+void *AllocUniversalDetector(void);
 void FreeUniversalDetector(void *detectorptr);
 void UniversalDetectorHandleData(void *detectorptr,const char *data,int length);
 void UniversalDetectorReset(void *detectorptr);
